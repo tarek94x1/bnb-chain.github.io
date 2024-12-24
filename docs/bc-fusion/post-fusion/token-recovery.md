@@ -7,7 +7,8 @@ of token recovery.
 
 Be noted:
 
-* Only [the crosschain bound/mirrored assets](../users/assets.md) can be recovered.
+* Only [the crosschain bound/mirrored
+* assets](../users/assets.md) can be recovered.
 
 URL:
 
